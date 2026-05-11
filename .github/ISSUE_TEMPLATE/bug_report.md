@@ -1,8 +1,20 @@
 ---
 name: Bug report
-about: Bug 反馈
+about: Create a bug report
+title: "[BUG] 在这里填入你所遇到问题的概述"
+labels: bug-user-report
 
 ---
 
-1.此项目为前端，不解决任何后端相关问题
-2.提问前请先阅读 wiki,否则将会 close 并 block
+## Environment 环境
+
+OS:   
+HTTPS enabled:   
+PHP version:    
+DB version:  
+Redis version:    
+Commit:    
+
+## Bug Info
+
+Describe the issue you run into. 请描述你遇到的问题。
